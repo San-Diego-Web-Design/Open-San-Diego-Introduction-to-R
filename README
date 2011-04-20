@@ -1,0 +1,92 @@
+How to follow this tutorial
+===========================
+
+* Download and install the items from class requirements to a single directory on your local machine. 
+* Open up an R ide
+* Unpack all the zip files with the datasets into your R working directory
+* Open up the class_script.r file which contains the complete tutorial
+* Walk through the class_script executing each line as you come to it and reading the comments
+* If you have questions or note an issue in the script feel free to email me: baconner AT gmail DOT com 
+
+
+Class Requirements
+==================
+
+R: http://www.r-project.org/
+
+
+A Few Alternate IDEs (optional - base R includes an IDE)
+--------------------------------------------------------
+JGR: http://www.rforge.net/JGR/
+RStudio: http://www.rstudio.org/
+RKWard - http://rkward.sourceforge.net/
+...
+
+Class Data
+----------
+
+California STAR standardized test scores
+
+2010:
+http://star.cde.ca.gov/star2010/ResearchFileList.asp?ps=true&lstTestYear=2010&lstTestType=C&lstCounty=37&lstDistrict=&lstSchool=&lstGroup=1&lstSubGroup=1
+
+2009:
+http://star.cde.ca.gov/star2009/ResearchFileList.asp?rf=True&ps=True
+
+File Format Documentation
+http://star.cde.ca.gov/star2010/research_fixfileformat.asp
+
+
+Many more related sets can be found on the STAR program homepage.
+http://star.cde.ca.gov/star2010/Index.asp
+
+
+For more interesting local data sets to play with check out:
+http://flashlight.opensandiego.org/
+
+
+Other R Resources
+=================
+CRAN
+http://cran.r-project.org/
+CRAN is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R. 
+
+R-Forge 
+http://r-forge.r-project.org/
+Offers a central platform for the development of R packages, R-related software and further projects
+
+
+
+Recommended Further Education
+=============================
+
+Stack Overflow - R
+http://stackoverflow.com/questions/tagged/r
+A good place to ask questions about R
+
+Data Mashups in R
+http://my.safaribooksonline.com/book/-/9781449305574
+Very similar to this course this is a short but detailed tutorial on pulling in data from the web, manipulating it in R, and building plots and maps with it.
+
+R Cookbook
+http://my.safaribooksonline.com/book/programming/r/9780596809287
+A long list of quick how-do-i-do-X solutions in R. A handy reference book
+
+GGPlot2, the book
+http://had.co.nz/ggplot2/book/
+
+Simple R - Using R for Introductary Statistics
+http://www.amazon.com/Using-Introductory-Statistics-John-Verzani/dp/1584884509
+An introduction to basic statistics using R as a platform for teaching. Some of this book is available on the web in digital form for free.
+
+How to Lie with Statistics
+http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728
+A classic book on how to spot statistical errors and how to avoid drawing the wrong conclusions from your own work in statistics. Good for beginners who want to avoid making common mistakes. Plus the illustrations are classic 1950s infographics.
+
+Khan Academy - Statistics
+http://www.khanacademy.org/?video=statistics--the-average#statistics
+Khan produces great educational videos on a variety of topics many with a focus on basic math. This is a good free resource to learn basic statistics via video.
+
+Show Me the Numbers
+http://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601999
+A good introductary to key data visualization principals. This book distills a lot of what we know about visual perception into an easy to understand guide.
